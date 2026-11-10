@@ -1,0 +1,6 @@
+numpy>=1.24
+mujoco>=2.3.0
+gymnasium>=0.29
+opencv-python>=4.8
+tqdm
+# torch>=2.1  # 仅 policy.py / train.py 需要

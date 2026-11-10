@@ -1,0 +1,26 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.venv/
+venv/
+env/
+
+# logs
+*_log.txt
+*.log
+
+# numpy DP failed experiments
+policy_np.py
+train_np.py
+evaluate_np.py
+checkpoints/dp_np_push.pkl
+videos/eval_np.mp4
+_smoke.py
+data/test.npz
+
+# OS
+Thumbs.db
+.DS_Store
