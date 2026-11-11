@@ -1,0 +1,24 @@
+[train] device=cpu
+[train] dataset size=801
+[train] epoch   0 loss=0.6798
+[train] epoch   5 loss=0.2826
+[train] epoch  10 loss=0.2223
+[train] epoch  15 loss=0.2167
+[train] epoch  20 loss=0.1821
+[train] epoch  25 loss=0.1892
+[train] epoch  30 loss=0.2541
+[train] epoch  35 loss=0.1621
+[train] epoch  40 loss=0.1324
+[train] epoch  45 loss=0.1589
+[train] epoch  50 loss=0.1690
+[train] epoch  55 loss=0.1150
+[train] epoch  60 loss=0.1143
+[train] epoch  65 loss=0.1347
+[train] epoch  70 loss=0.1279
+[train] epoch  75 loss=0.1066
+[train] epoch  80 loss=0.0998
+[train] epoch  85 loss=0.0973
+[train] epoch  90 loss=0.1230
+[train] epoch  95 loss=0.0964
+[train] epoch  99 loss=0.1048
+[train] saved -> checkpoints/dp_push.pt
